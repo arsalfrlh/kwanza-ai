@@ -18,15 +18,24 @@ The application supports:
 
 ### Chat Screen
 
-![Chat Screen](YOUR_IMAGE_URL_HERE)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg" width="250"/>
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg" width="250"/>
+</p>
 
 ### AI Streaming Response
 
-![Streaming Response](YOUR_IMAGE_URL_HERE)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg" width="250"/>
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg" width="250"/>
+</p>
 
 ### Chat Room Drawer
 
-![Chat Room Drawer](YOUR_IMAGE_URL_HERE)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg" width="250"/>
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg" width="250"/>
+</p>
 
 ---
 
@@ -35,10 +44,6 @@ The application supports:
 ### GIF Demo
 
 ![Demo GIF](YOUR_GIF_URL_HERE)
-
-### Video Demo
-
-https://youtube.com/watch?v=YOUR_VIDEO_URL
 
 ---
 
@@ -158,7 +163,7 @@ lib/
 
 Clone repository
 
-git clone https://github.com/yourusername/kwanza-ai.git
+git clone https://github.com/arsalfrlh/kwanza-ai.git
 
 Install dependencies
 
