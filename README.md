@@ -38,13 +38,7 @@ The application supports:
 
 ## Demo
 
-### GIF Demo
-
-<p align="center">
-  <img src="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/gif-stream.mp4" width="300"/>
-</p>
-
-### GIF Video
+### Video
 
 <p align="center">
   <a href="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/video.mp4">
