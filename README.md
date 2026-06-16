@@ -41,9 +41,9 @@ The application supports:
 
 ## Demo
 
-### Video Demo
+### GIF Demo
 
-https://youtube.com/watch?v=YOUR_VIDEO_URL
+![Demo GIF](YOUR_GIF_URL_HERE)
 
 ---
 
