@@ -136,28 +136,6 @@ Flutter UI
 
 ---
 
-# Project Structure
-
-Backend
-
-app/
-├── Events/
-├── Http/
-├── Models/
-├── Services/
-└── Providers/
-
-Frontend
-
-lib/
-├── models/
-├── services/
-├── viewmodels/
-├── views/
-└── widgets/
-
----
-
 # Installation
 
 ## Backend
