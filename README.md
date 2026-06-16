@@ -40,7 +40,9 @@ The application supports:
 
 ### GIF Demo
 
-![Demo GIF](YOUR_GIF_URL_HERE)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/gif-stream.mp4" width="300"/>
+</p>
 
 ### GIF Video
 
