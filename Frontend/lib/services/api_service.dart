@@ -6,7 +6,7 @@ import 'package:toko/models/user.dart';
 
 class ApiService {
   final dio = Dio(BaseOptions(
-    baseUrl: "http://192.168.0.104:8000/api",
+    baseUrl: "http://10.0.2.2:8000/api",
     sendTimeout: Duration(seconds: 300),
     connectTimeout: Duration(seconds: 300),
     receiveTimeout: Duration(seconds: 300)
