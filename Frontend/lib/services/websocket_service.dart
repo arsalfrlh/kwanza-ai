@@ -22,7 +22,7 @@ class WebsocketService {
 
   void connect(){
     if(_isConnected) return;
-    final wsUrl = "ws://192.168.0.104:8080/app/rpn6wtrxr5pitlysuhoa";
+    final wsUrl = "ws://10.0.2.2:8080/app/rpn6wtrxr5pitlysuhoa";
     _channel = WebSocketChannel.connect(Uri.parse(wsUrl));
     _subscription = _channel?.stream.listen((event){
       final data = jsonDecode(event);
