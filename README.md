@@ -19,31 +19,32 @@ The application supports:
 ### Chat Screen
 
 <p align="center">
-  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg" width="250"/>
-  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg" width="250"/>
+  <img src="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/response.png" width="250"/>
 </p>
 
 ### AI Streaming Response
 
 <p align="center">
-  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg" width="250"/>
-  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg" width="250"/>
+  <img src="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/response-stream.png" width="250"/>
 </p>
 
 ### Chat Room Drawer
 
 <p align="center">
-  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg" width="250"/>
-  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg" width="250"/>
+  <img src="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/drawer.png" width="250"/>
 </p>
 
 ---
 
 ## Demo
 
-### GIF Demo
+### Video
 
-![Demo GIF](YOUR_GIF_URL_HERE)
+<p align="center">
+  <a href="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/video.mp4">
+    <img src="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/thumbnail.png" width="600"/>
+  </a>
+</p>
 
 ---
 
@@ -132,28 +133,6 @@ Flutter UI
 
 * Ollama
 * Qwen 2.5 Coder
-
----
-
-# Project Structure
-
-Backend
-
-app/
-├── Events/
-├── Http/
-├── Models/
-├── Services/
-└── Providers/
-
-Frontend
-
-lib/
-├── models/
-├── services/
-├── viewmodels/
-├── views/
-└── widgets/
 
 ---
 
