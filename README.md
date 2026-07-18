@@ -30,6 +30,18 @@ The application supports AI streaming, Retrieval-Augmented Generation (RAG), Too
 
 ---
 
+## Demo
+
+### Video
+
+<p align="center">
+  <a href="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/video.mp4">
+    <img src="https://github.com/arsalfrlh/kwanza-ai/blob/main/Demo/thumbnail.png" width="600"/>
+  </a>
+</p>
+
+---
+
 # Features
 
 ## Authentication
