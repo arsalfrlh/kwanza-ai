@@ -358,36 +358,6 @@ Supports any Ollama model, including:
 
 ---
 
-# Project Structure
-
-```text
-Flutter
-│
-├── UI
-├── ViewModel
-├── Services
-└── WebSocket
-
-Laravel
-│
-├── Authentication
-├── Chat Rooms
-├── Messages
-├── Broadcasting
-├── Upload Management
-└── REST API
-
-FastAPI
-│
-├── Ollama Service
-├── Tool Service
-├── Qdrant Service
-├── Document Service
-└── Prompt Management
-```
-
----
-
 # Installation
 
 ## Laravel Backend
